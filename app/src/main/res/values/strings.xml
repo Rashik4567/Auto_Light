@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auto Light</string>
+    <string name="light">Light</string>
+    <string name="fan">Fan</string>
+    <string name="currently_connected_to_none">Currently Connected to: NONE</string>
+    <string name="connect_to_device">Connect to device</string>
+    <string name="light_brightness">Light Brightness</string>
+    <string name="fan_speed">Fan speed</string>
+    <string name="todo">TODO</string>
+</resources>
